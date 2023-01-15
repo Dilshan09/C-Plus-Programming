@@ -1,0 +1,3 @@
+﻿  Plane.cpp
+C:\Users\Acer\Desktop\Online1\versionJ\versionJ\Plane.cpp(51): warning C4715: 'Plane::getPilot': not all control paths return a value
+  versionJ.vcxproj -> C:\Users\Acer\Desktop\Online1\versionJ\x64\Debug\versionJ.exe
