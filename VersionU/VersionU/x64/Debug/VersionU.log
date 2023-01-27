@@ -1,0 +1,6 @@
+﻿  Contact.cpp
+  VersionU.cpp
+C:\Users\Acer\Desktop\Online1\VersionU\VersionU\VersionU.cpp(12,42): warning C4305: 'argument': truncation from '__int64' to 'long'
+C:\Users\Acer\Desktop\Online1\VersionU\VersionU\VersionU.cpp(12,32): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  VersionU.vcxproj -> C:\Users\Acer\Desktop\Online1\VersionU\x64\Debug\VersionU.exe
