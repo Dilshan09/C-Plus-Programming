@@ -1,0 +1,49 @@
+﻿  song.cpp
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(6,9): error C3646: 'songName': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(6,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(7,9): error C3646: 'artist': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(7,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(8,9): error C3646: 'genre': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(10,20): error C2061: syntax error: identifier 'string'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(11,35): error C2061: syntax error: identifier 'string'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(13,9): error C3646: 'getGenre': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(13,17): error C2059: syntax error: '('
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(7,1): error C2511: 'Song::Song(int,std::string,std::string,std::string)': overloaded member function not found in 'Song'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(2): message : see declaration of 'Song'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(8,2): error C2597: illegal reference to non-static member 'Song::songID'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(5): message : see declaration of 'Song::songID'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(9,2): error C2065: 'songName': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(10,2): error C2065: 'artist': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(11,2): error C2065: 'genre': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(15,1): error C2511: 'void Song::setSongDetails(int,std::string,std::string,std::string)': overloaded member function not found in 'Song'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(2): message : see declaration of 'Song'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(16,2): error C2597: illegal reference to non-static member 'Song::songID'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(5): message : see declaration of 'Song::songID'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(17,2): error C2065: 'songName': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(18,2): error C2065: 'artist': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(19,2): error C2065: 'genre': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(26,27): error C2065: 'songName': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(27,25): error C2065: 'artist': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(28,24): error C2065: 'genre': undeclared identifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.cpp(32,14): error C2039: 'getGenre': is not a member of 'Song'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(2): message : see declaration of 'Song'
+  Try.cpp
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(6,9): error C3646: 'songName': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(6,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(7,9): error C3646: 'artist': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(7,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(8,9): error C3646: 'genre': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(10,20): error C2061: syntax error: identifier 'string'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(11,35): error C2061: syntax error: identifier 'string'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(13,9): error C3646: 'getGenre': unknown override specifier
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(13,17): error C2059: syntax error: '('
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\Acer\Desktop\Online1\Try\Try\Try.cpp(9,47): error C2661: 'Song::Song': no overloaded function takes 4 arguments
+C:\Users\Acer\Desktop\Online1\Try\Try\Try.cpp(10,55): error C2661: 'Song::Song': no overloaded function takes 4 arguments
+C:\Users\Acer\Desktop\Online1\Try\Try\Try.cpp(11,45): error C2661: 'Song::Song': no overloaded function takes 4 arguments
+C:\Users\Acer\Desktop\Online1\Try\Try\Try.cpp(15,9): error C2039: 'getGenre': is not a member of 'Song'
+C:\Users\Acer\Desktop\Online1\Try\Try\song.h(2): message : see declaration of 'Song'
+  Generating Code...
